@@ -56,6 +56,7 @@ def do_segments_intersect(seg1, seg2):
     return False
 
 
+
 if __name__ == "__main__":
     p1 = (1.0, 1.0)
     p2 = (4.0, 4.0)
